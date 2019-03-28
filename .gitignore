@@ -1,0 +1,9 @@
+.idea
+.DS_Store
+venv
+*pyc
+**/snippets/**/
+!**/snippets/app
+!**/snippets/app/**
+!**/snippets/app/**/*
+__pycache__/*
